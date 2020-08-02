@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendProtect.Library", "SendProtect.Library\SendProtect.Library.csproj", "{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SendProtect", "SendProtect\SendProtect.vdproj", "{65A0601D-06A2-4844-8DAF-CA3979AA0541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendProtect.Outlook", "SendProtect.Outlook\SendProtect.Outlook.csproj", "{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Debug|x86.ActiveCfg = Debug|x86
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Debug|x86.Build.0 = Debug|x86
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Release|x86.ActiveCfg = Release|x86
+		{C497D83F-B31F-4C4F-9ED0-E0ED07A4B9E7}.Release|x86.Build.0 = Release|x86
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Debug|Any CPU.ActiveCfg = Debug
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Debug|Any CPU.Build.0 = Debug
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Debug|x86.ActiveCfg = Debug
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Debug|x86.Build.0 = Debug
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Release|Any CPU.ActiveCfg = Release
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Release|Any CPU.Build.0 = Release
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Release|x86.ActiveCfg = Release
+		{65A0601D-06A2-4844-8DAF-CA3979AA0541}.Release|x86.Build.0 = Release
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Debug|x86.ActiveCfg = Debug|x86
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Debug|x86.Build.0 = Debug|x86
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Release|x86.ActiveCfg = Release|x86
+		{D89A45B4-469C-4CFC-B6B8-EFB23C78048C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53D48E1F-FF12-46E9-94A4-538CE98E191E}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
