@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="Ribbon_Load">
+	<ribbon>
+		<tabs>
+			<tab idMso="TabHome" >
+				<group id="homeContentGroup" label="Support">
+					<button id="homeMenuButton" label="Tech Support Chat" getImage="GetImage" size="large"
+						 screentip="Tech Support Chat" onAction="OnTextButton" tag ="https://chat.google.com&amp;source={0}_ribbon"
+						 supertip="Click to chat with one of our live Support Agents."/>
+				</group>
+			</tab>
+
+			<tab idMso="TabMail" >
+				<group id="mailContentGroup" label="Support">
+					<button id="mailMenuButton" label="Tech Support Chat" getImage="GetImage" size="large"
+						 screentip="Tech Support Chat" onAction="OnTextButton" tag ="https://chat.google.com&amp;source={0}_ribbon"
+						 supertip="Click to chat with one of our live Support Agents."/>
+				</group>
+			</tab>
+
+			<tab idMso="TabNewMailMessage" >
+				<group id="mailnewContentGroup" label="Support">
+					<button id="mailnewMenuButton" label="Tech Support Chat" getImage="GetImage" size="large"
+						 screentip="Tech Support Chat" onAction="OnTextButton" tag ="https://chat.google.com&amp;source={0}_ribbon"
+						 supertip="Click to chat with one of our live Support Agents."/>
+				</group>
+			</tab>
+
+			<tab id="TabSupport" insertAfterMso="TabAddIns" label="Support" >
+				<group id="tabAddInsGroup" label="Support">
+					<button id="tabAddInsButton" label="Tech Support Chat" getImage="GetImage" size="large"
+						 screentip="Tech Support Chat" onAction="OnTextButton" tag ="https://chat.google.com&amp;source={0}_tab"
+						 supertip="Click to chat with one of our live Support Agents."/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>

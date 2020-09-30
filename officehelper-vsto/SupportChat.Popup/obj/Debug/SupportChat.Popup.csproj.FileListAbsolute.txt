@@ -1,0 +1,7 @@
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\bin\Debug\SupportChat.Popup.exe
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\bin\Debug\SupportChat.Popup.pdb
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\obj\Debug\SupportChat.Popup.csprojAssemblyReference.cache
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\obj\Debug\Interop.SHDocVw.dll
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\obj\Debug\SupportChat.Popup.csproj.ResolveComReference.cache
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\obj\Debug\SupportChat.Popup.exe
+C:\Git\itsbijay\officeapp\officehelper-vsto\SupportChat.Popup\obj\Debug\SupportChat.Popup.pdb
