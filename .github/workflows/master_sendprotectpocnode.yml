@@ -36,5 +36,6 @@ jobs:
         
     - name: npm start
       run: |
+        cd emailsendprotect-web
         npm run start --if-present        
         
