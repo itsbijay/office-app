@@ -1,0 +1,11 @@
+extends layout
+block content
+    h3 
+        label Please confirm by ticking each box that you want to send the listed Attachments to External.
+        ul(style='list-style:none')
+            each val in participants
+                li: label.checkbox
+                    input(type='checkbox')
+                    = val
+    button(type='button' class=`btn btn-info` style="float:right;") Cancel
+    button(type='button' class=`btn btn-info` style="float:right;margin-right:10px;") Send
