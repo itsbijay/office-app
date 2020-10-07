@@ -32,5 +32,5 @@ jobs:
         app-name: 'sendprotectpocnode'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_f7175a7ec9ce4ddb91d2d6f2654eca8d }}
-        package: "$(System.DefaultWorkingDirectory)/emailsendprotect-web"
+        package: "./emailsendprotect-web"
         
